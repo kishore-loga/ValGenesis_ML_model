@@ -29,6 +29,7 @@ def extract_text_from_pdf(pdf_paths):
 pdf_paths = ["Cancer_CT_Eligibility_Criteria_Prior_or_Concurrent_Malignan.pdf", "Pulmonary_Tuberculosis.pdf"]
 text = extract_text_from_pdf(pdf_paths)
 
-print(text)
+with open("pdf_output.txt", "w", encoding='utf-8') as file:
+    file.write(text)
 
 

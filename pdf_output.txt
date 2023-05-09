@@ -1,0 +1,1441 @@
+ 
+ Cancer Clinical Trial 
+Eligibility Criteria:  
+Patients with Organ 
+Dysfunction or Prior or 
+Concurrent 
+Malignancies  
+ 
+Guidance for Industry  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Oncology Center of Excellence  
+Center for Drug Evaluation and Research (CDER)  
+Center for Biologics Evaluation and Research (CBER)  
+ 
+ 
+July 2020  
+Clinical/Medical   
+ Cancer Clinical Trial 
+Eligibility Criteria:  
+Patients with Organ 
+Dysfunction or Prior or 
+Concurrent Malignancies  
+ 
+Guidance for Industry  
+ 
+ 
+Additional copies are available from:  
+Office of Communications, Division of Drug Information  
+Center for Drug Evaluation and Research  
+Food and Drug Administration  
+10001 New Hampshire Ave., Hillandale Bldg., 4th Floor  
+Silver Spring, MD  20993 -0002   
+Phone: 855-543-3784 or 301 -796-3400 ; Fax: 301-431-6353 ; Email: druginfo@fda.hhs.gov  
+https://www.fda.gov/drugs/guidance -compliance -regulatory -information/guidances -drugs  
+and/or  
+Office of Communication, Outreach, and Development  
+Center for Bi ologics Evaluation and Research  
+Food and Drug Administration  
+10903 New Hampshire Ave., Bldg. 7 1, rm. 3128  
+Silver Spring, MD   20993 -0002  
+Phone: 800-835-4709 or 240 -402-8010; Email: ocod@fda.hhs.gov  
+https://www.fda.gov/vaccines -blood -biologics/guidance -compliance -regulatory -information -biologics/biologics -
+guidances  
+ 
+ 
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Oncology Center of Excellence  
+Center for Drug Evaluation and Research (CDER)  
+Center for Biologics Evaluation and Research (CBER)  
+ 
+July 2020  
+Clinical/Medical  Contains Nonbinding Recommendations  
+ 
+ TABLE OF CONTENTS  
+ 
+I. INTRODUCTION ................................ ................................ ................................ .............  1 
+II. BACKGROUND  ................................ ................................ ................................ ...............  2 
+III. RECOMMENDATIONS  ................................ ................................ ................................ .. 3 
+A. Patients with organ dysfunction  ................................ ................................ ................................ ... 3 
+1. Renal function recommendations  ................................ ................................ ................................ ..... 3 
+2. Cardiac function recommendations  ................................ ................................ ................................ . 4 
+3. Hepatic function recommendations  ................................ ................................ ................................ . 5 
+B. Patients with prior or con current malignancy  ................................ ................................ ............  5 Contains Nonbinding Recommendations  
+ 
+ 1 Cancer Clinical Trial Eligibility Criteria:  
+Patients with Organ  Dysfunction  or Prior or Concurrent 
+Malignancies  
+Guidance for Industry1 
+ 
+ 
+ 
+ 
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) on 
+this topic.  It does not establish any rights for any person and is not binding on FDA or the public.   You 
+can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations.  
+To discuss an alternative approach, contact the FDA office responsible for this guidance as listed on the 
+title page.   
+ 
+ 
+ 
+ 
+I. INTRODUCTION  
+ 
+This guidance is one in a series of guidance s that provide recommendations regarding eligibility 
+criteria  for clinical trials of  drugs or biological products2 regulated by  CDER and CBER  for the 
+treatment of cancer .3 Specifically, this guid ance includes recommendations regarding  the 
+inclusion of patients with organ dysfunction  or with prior or concurrent malignancies . This 
+guidance is intended to assist stakeholders , including  sponsors and institutional review boards , 
+responsible for  the developm ent and oversight of clinical trials .  
+ 
+A clinical trial’s eligibility criteria ( for inclusion and exclusion) are essential components of the 
+trial, defining the characteristics of the study population. Because there is variability in 
+investigational drugs  and trial objectives, eligibility criteria should be developed taking into 
+consideration the mechanism of action of the drug, the targeted disease or patient population, the 
+anticipated safety of the investigational drug, the availability of adequate safe ty data, and the 
+ability to recruit trial participants from the patient population to meet the objectives of the 
+clinical trial. However, some eligibility  criteria have become commonly accepted over ti me or 
+used as  a template across trials without clear sc ientific or clinical rationale. Unnecessarily 
+restrictive eligibility  criteria may slow patient accrual , limit  patient s’ access to clinical trials , and 
+                                                 
+1 This guidance has  been prepared by the Oncology Center of Excellence, Center for Drug Evaluation and Research 
+(CDER), and Center for Biologics Evaluation and Research (CBER) at the Food and Drug Administration.   
+2 For the purposes  of this  guidance, references  to drugs  and drug and biological products include drugs approved 
+under section 505 of the Federal Food, Drug, and Cosmetic  Act (21 U.S.C. 355) and biological products licensed 
+under section 351 of the Public Health Service Act (42 U.S.C. 262) . 
+3 Topics of the other three guidances are related to eligibility criteria for patients with human immunodeficiency 
+virus, hepatitis B virus, or hepatitis C virus infections; for pat ients with brain metastases;  and regarding minimum 
+age considerations for inclusion of pedi atric patients.  
+ Contains Nonbinding Recommendations  
+ 
+ 2 lead to trial results that do not  fully  represent treatment effects in the patient population that will 
+ultimately use the drug.4,5 
+ 
+Broadening cancer  trial eligibility criteria can maximize the generalizability of trial results and 
+the ability to understand the therapy’s benefit -risk profile a cross the patient population likely to 
+use the drug in clinical practice and should be considered to avoid  jeopardizing patient safety.  
+ 
+Trial design and methodological approaches are important considerations when enrolling a 
+broader population and are ad dressed elsewhere6,7 and are not addressed in this guidance because 
+the considerations are not specific to enrolling patients with organ dysfunction or prior or 
+concurrent malignancies. 
+ 
+In general, FDA’s guidance documents do not establish legally enforce able responsibilities. 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
+as recommendations, unless specific regulatory or statutory requirements are cited. The use of 
+the word should  in Agency guidances means t hat something is suggested or recommended, but 
+not required.  
+ 
+ 
+II. BACKGROUND  
+ 
+Patients with organ dysfunction are often excluded from clinical trials, regardless of knowledge 
+of the metabolic pathways and excretory routes of the  investigational drug . The life-span of the 
+general population is increasing  and thus includes increasing numbers of patients with co-morbid 
+renal disease, cardiac disease, and hepatic dysfunction. Additionally, as life-span of the general 
+population increas es, a greater number of  patients are anticipated to have  prior or concurrent 
+malig nancies . By excluding individuals from cancer clinical trials  who have  major organ 
+dysfunction  or previous or concurrent cancers , trial recruitment may favor younger patients , 
+which may not be  fully  representative of the population for whom the drug will be indicated . 
+Designing cancer clinical trials that include patients with organ dysfunction and prior or 
+concurrent malignancies an d including this information in the labeling promotes the safe and 
+effective use of these products across a broad er patient population likely to use the drug in 
+clinical practice . 
+ 
+ 
+ 
+                                                 
+4 Beaver  JA, Ison  G, Pazdur  R, 2017, Reevaluating Eligibility Criteria - Balancing Patient Protection and 
+Participation in Oncology Trials, NEJM , 376:1504 -1505.  
+5 Kim E, Bruinooge  S, Roberts  S, et al. , 2017,  Broadening Eligibility Criteria to Make Clinical Trials More 
+Representative: American Society of Clinical Oncology and Friends of Cancer Research Joint Research Statement , 
+JCO, 35(33): 3737 -3744.  
+6 See the draft guidance for industry Enhancing the Diversity of Clinical Trial Populations – Eligibility Criteria, 
+Enrollment Practices, and Trial Designs  (June 2019) . When final, this guidance will represent the FDA ’s current 
+thinking on th is topic. We update guidances periodically. For the most recent version of a guidance, check the FDA 
+guidance web page at https://www.fda.gov/regulatory -information/search -fda-guidance -documents . 
+7 Jin S, Pazdur R, Sridhara R, 2017, Re -Evaluating Eligibility Criteria for Oncology Clinical Trials: Analysis of 
+Investigational New Drug Applications in 2015, JCO, 35(33): 3745 -3752.  Contains Nonbinding Recommendations  
+ 
+ 3 III. RECOMMENDATIONS      
+ 
+Thoughtful  consideration should be given to the potential inclusion of patients with organ 
+dysfunction  or prior or concurrent malignancies in cancer clinical trials.  The following 
+recommendations for eligibility criteria for  patients with  organ dysfunction in cancer  clinical 
+trials focus on renal function, cardiac function, and hepatic function. This guidance also includes 
+recommendations for eligibility criteria for patients with cancer who have prior or concurrent  
+malignancies.   
+ 
+A. Patients with organ dysfunction  
+ 
+When pharmacokinetics (PK) and major routes of elimination in humans are not well 
+understood, it is reasonable to enroll only patients with relatively preserved  organ function 
+(primarily renal and hepatic) in  cancer clinical trials. As data on toxicity , including nonclinical 
+and clinical toxicity , PK, and /or pharmacodynamics (PD) become available during drug 
+development, protocols should be revised to include patients with compromised organ function 
+where safe parameters  regarding dosage adjustments  have been  determined.8 
+ 
+1. Renal function recommendations  
+ 
+• Eligibility criteria should be based on a contemporary, widely accepted, and 
+clinically applicable equation that estimates glomerular filtration rate or a 
+measure of glomerular filtration rate  rather than an absolute serum creatinine 
+concentration.  The equ ation use d for a particular patient population  should 
+remain consistent throughout  the investigational drug development process.  
+ 
+• Sponsors should provide adequate justification for the inclusion/exclusion of 
+patients with various degrees of renal impairme nt based on the stage of 
+product development, safety profile of the product , understanding of the effect 
+of renal impairment on the elimination of the drug , and the safety of study 
+procedures in patients with renal impairment.  
+ 
+• Patients with renal impairment should be included in trials of investigational 
+drugs when the available nonclinical and clinical data indicate that inclusion 
+of patients with renal impairment would not place patients at unreasonable 
+risk and/or adequate st eps can be taken to mitigate potential risks. When there 
+is an expectation that the systemic exposure  will increase in patients  with 
+renal dysfunction, inclusion of such patients  may be facilitated by prospective 
+dose adjustment to produce similar systemic  exposures to those seen in 
+patients with relatively preserved kidney function.9 
+                                                 
+8 Lichtman  S, Harvey  R, Smit M,  et al., 2017,  Modern izing Clinical Trial Eligibility Criteria: Recommendations of 
+the American Society of Clinical Oncology – Friends of Cancer Research Organ Dysfunction, Prior or Concurrent 
+Malignancy, and Comorbidities Working Group, JCO, 35(33) : 3753 -3759 . 
+9 Public Worksh op: Evaluating Inclusion and Exclusion Criteria in Clinical Trials, Workshop Report, July 2018, 
+workshop date April 16, 2018, available at https://www.fd anews.com/ext/resources/files/2018/08 -22-18-
+FDAsummary.pdf?1534970149  (accessed June 23 , 2020). Contains Nonbinding Recommendations  
+ 
+ 4 • Sponsors should address the need for and timing of studies to evaluate the 
+effect of dialysis on drug clearance and the need for dosage adjustment for 
+patients on dialysis.  
+ 
+If there is adequate representation of patients with varying degrees of renal impairment, as well 
+as data sufficient to adequately describe the impact of renal impairment on PK of the drug, 
+population pharmacokinetic (popPK) analyses of data from phase 2 or  phase 3 clinical trials may 
+be sufficient to characterize the impact of renal function.  
+ 
+2. Cardiac function recommendations  
+ 
+• Inclusion of patients with cardiovascular dysfunction may be possible when 
+available nonclinical and clinical data, including PK and  PD data, indicate that 
+inclusion of these patients does not expose them to  unreasonable risk . 
+ 
+• Patients with significant clinical cardiac abnormalities (e.g., clinical heart 
+failure, unstable angina) should be  excluded, especially in early -phase studies.  
+ 
+• Inclusion criteria should require  investigator assessment of a potential 
+participant’s risk for heart failure with a validated clinical classification 
+system (e.g., the New York Heart Association Functional Classification).  
+ 
+• Ejection fraction (E F) measurement : 
+ 
+- EF measured by either echocardiography or multigated acquisition 
+scan is acceptable for deter mining cardiac EF  for eligibility  criteria  
+purposes .  
+ 
+• QTc Prolongation :10 
+ 
+- Sponsors should assess the effects of a drug on QTc during early 
+clinical development.    
+ 
+- Sponsors should determine whether a maximum QTc interval is 
+necessary as a clinical trial eligibility criteri on based on whether there 
+is a specific known risk of QTc prolongation, either through non -
+clinical (e.g., hERG) or clinical trial data.  
+ 
+ 
+ 
+                                                 
+10 See the ICH guidance for industry E14 Clinical Evaluation of QT/QTc Interval Prolongation and Proarrhythmic 
+Potential for Non -Antiarrhythmic Drugs  (October 20 05) and the ICH guidance for industry E14 Clinical Evaluation 
+of QT/QTc  Inter val Prolongation and Proarrhythmic Potential for Non -Antiarrhythmic Drugs – Questions and 
+Answers (R3)  (June 2017) for additional information regarding QTc prolongation.   
+ Contains Nonbinding Recommendations  
+ 
+ 5 3. Hepatic function recommendations  
+ 
+Unlike other organ systems , liver biochemical testing does not provide sufficient  evidence of 
+adequate liver drug metabolic function. While e stimates of hepatic function that incorporate 
+clinical variables as well as functional and laboratory values, such as the Child -Pugh and Model  
+for End -Stage Liver Disease scoring systems ,11,12 are adopted as markers of  hepatic metabolism  
+in dedicated PK studies , hepatic metabolism may also be influenced by cancer and inflammation, 
+even in the setting of normal scoring . To gauge  hepatic drug transf ormation capacity, pre -
+existing liver disease, as well as epidemiological, genetic, environmental, and historical variables 
+(e.g., chronic alcohol use and a past history of adverse drug reactions ) should be ascertained. 
+Impaired hepatic blood flow, in part icular  when portal hypertension is ev ident, is critical to 
+assessing how the liver metabolizes  drugs.  
+ 
+• Inclusion of patients with severe hepatic impairment should be discussed with 
+FDA.  
+ 
+• Patients with mild and moderate hepatic impairment13 (defined as the 
+equivalent of National Cancer Institute Common Terminology Criteria for 
+Adverse Events (NCI CTC AE) grade 1 toxicity), as well as those with 
+aspartate transaminase (AST) and alanine transaminase (ALT) elevations 
+defined as grade 3 by the NCI CTCAE  (> 5 to 20 x ULN (upper limit of 
+normal) ), may be asymptomatic and able to tolerate  doses equivalent to 
+patients with normal hepatic function.  
+ 
+• Inclusion of patients with mild to moderate hepatic impairment may be 
+appropriate when the available nonclinical and clinical data, including PK and 
+PD data, indicate that inclusion of these patients  does not present  an 
+unreasonable risk to patients . 
+ 
+B. Patients with prior  or concurrent malignancy  
+ 
+Patients with  prior  malignancies of the same or different tumor type and patients with concurrent  
+malignanc ies of the same or different tumor type (referred to as  prior or conc urrent malignancies  
+in this guidance)  whose natural history or treatment does not have the potential to interfere with 
+the safety or efficacy assessment of the investigational drug should generally be eligible for 
+enrollment in clinical trials . For example, in initial  dose finding or preliminary activity -estimating 
+or proof -of-concept studies , patients with a history of prior  or concurrent  malignancies should not 
+be excluded . 
+                                                 
+11 See the guidance for industry Pharmacokinetics in Patients with Impaired Hepatic Function: Study Design, Data 
+Analysis, and Impact on Dosing and Labeling  (May 2003).    
+12 See the Protoco l Template for Organ Dysfunction Studies, updated February 5, 2020  for the NCI criteria, 
+available at https://ctep.cancer.gov/protocolDevelopment/templates_applications. htm (accessed June 23 , 2020). 
+13 Talal AH, Venuto CS, Younis I, 2017, Assessment of hepatic impairment and implications for pharmacokinetics 
+of substance use treatment, Clin Pharmacol Drug Dev, 6: 206 -212.  
+16856dft.docx  
+12/09/22  Pulmonary Tuberculosis:  
+Developing Drugs for 
+Treatment 
+Guidance for Industry 
+ 
+ 
+ 
+DRAFT GUIDANCE  
+ 
+ This guidance document is being distributed for comment purposes only.  
+ Comments and suggestions regarding this draft document should be submitted within 60 days of publication in the Federal Register of the notice announcing the availability of the draft 
+guidance.  Submit electronic comments to https://www.regulations.gov
+.  Submit written 
+comments to the Dockets Management Staff (HFA -305), Food and Drug Administration, 5630 
+Fishers Lane, Rm. 1061, Rockville, MD  20852.  All comments should be identified with the docket number listed in the notice of availability that publishes in the  Federal Register. 
+ 
+For questions regarding this draft document, contact Ramya Gopinath at 
+Ramya.Gopinath@fda.hhs.gov .  
+        
+ 
+ 
+U.S. Department of Health and Human Services  
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER)  
+ 
+December 20 22 
+Clinical /Antimicrobial  
+Revision 1  
+ Pulmonary Tuberculosis:  
+Developing Drugs for 
+Treatment 
+Guidance for Industry 
+ 
+Additional copies are available from:  
+ 
+Office of Communications, Division of Drug Information  
+Center for Drug Evaluation and Research  
+Food and Drug Administration  
+10001 New Hampshire Ave., Hillandale Bldg., 4th Floor  
+Silver Spring, MD  20993 -0002  
+Phone: 855-543-3784 or 301 -796-3400; Fax: 301-431-6353 ; Email: druginfo@fda.hhs.gov  
+https://www.fda.gov/drugs/guidance-compliance-regulatory-information/guidances-drugs  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+  
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Center for Drug Evaluation and Research (CDER)  
+ 
+December 20 22 
+Clinical /Antimicrobial  
+Revision 1
+ Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+ TABLE OF CONTENTS  
+ 
+I. INTRODUCTION ............................................................................................................. 1 
+II. BACKGROUND  ............................................................................................................... 2 
+III. DEVELOPMENT PROGRAM  ....................................................................................... 2 
+A. General Considerations  ................................................................................................................. 2 
+1. Early Phase Clinical Development Considerations  ......................................................................... 2 
+a. EBA  ........................................................................................................................................... 3 
+b. Phase 2 evaluations ................................................................................................................... 3 
+2. Efficacy Considerations  ................................................................................................................... 3 
+3. Safety Considerations  ...................................................................................................................... 3 
+B. Specific Efficacy Trial Considerations  ......................................................................................... 4 
+1. Trial Designs .................................................................................................................................... 4 
+2. Trial Population  ............................................................................................................................... 5 
+3. Inclusion and Exclusion Criteria  ..................................................................................................... 6 
+4. Randomization, Stratification, and Blinding  .................................................................................... 7 
+5. Specific Populations ......................................................................................................................... 7 
+a. Pediatric populations  ................................................................................................................. 7 
+b. Pregnant females  ....................................................................................................................... 8 
+c. Other specific populations ......................................................................................................... 9 
+6. Dose Selection  .................................................................................................................................. 9 
+7. Choice of Comparators  .................................................................................................................... 9 
+8. Efficacy Endpoints  ........................................................................................................................... 9 
+9. Trial Procedures and Timing of Assessments  ................................................................................ 11 
+a. Entry visit  ................................................................................................................................ 11 
+b. Visits during therapy and after therapy completion  ................................................................ 12 
+10. Statistical Considerations  .......................................................................................................... 12 
+11. Accelerated Approval Considerations  ....................................................................................... 13 
+C. Other Considerations ................................................................................................................... 13 
+1. Microbiological Considerations  .................................................................................................... 13 
+a. In vitro studies  ......................................................................................................................... 13 
+b. In vivo (animal models)  .......................................................................................................... 14 
+c. Drug resistance and cross-resistance  ....................................................................................... 14 
+d. Types of culture media to identify M. tuberculosis  ................................................................ 15 
+e. Differentiate relapse from reinfection  or new infection  .......................................................... 15 
+2. Relevant Nonclinical Safety Considerations  .................................................................................. 15 
+3. PK/PD Considerations ................................................................................................................... 16 
+a. Phase 1/phase 2 PK trials ........................................................................................................ 16 
+b. Drug interactions  ..................................................................................................................... 16 
+c. Exposure response  ................................................................................................................... 17 
+d. In vitro hollow fibe r system models  ....................................................................................... 17 
+4. Foreign Clinical Data  .................................................................................................................... 17 
+5. Data standards for  TB ................................................................................................................... 17 
+6. Labeling Considerations  ................................................................................................................ 18 
+REFERENCES  ............................................................................................................................ 19 
+APPENDIX .................................................................................................................................. 21 Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+1 Pulmonary Tuberculosis:   1 
+Developing Drugs for Treatment  2 
+Guidance for Industry1 3 
+ 4 
+ 5 
+ 6 
+This draft guidance, when finalized, will represent the current thinking of the Food and Drug 7 
+Administration (FDA or Agency) on this topic.  It does not establish any rights for any person and is not 8 
+binding on FDA or the public.  You can use an alternative approach if it satisfies the requirements of the 9 
+applicable statutes and regulations.  To discuss an alternative approach, contact the FDA staff responsible 10 
+for this guidance as listed on the title page.  11 
+ 12 
+ 13  14 I. INTRODUCTION  15 
+ 16 The purpose of this guidance is to assist sponsors in the clinical development of investigational 17 
+drugs for the treatment of pulmonary tuberculosis (TB)  under section 505 of the Federal Food, 18 
+Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 355 and FDA regulations at 21 CFR part 312 19 
+and part 601.
+2  Specifically, this guidance provides the FDA’s  current recommendations 20 
+regarding the overall development program for a new investigational drug or drugs to be used in 21 
+combination with approved drugs or as a new treatment regimen that includes one or more 22 
+investigational drugs to support an indication for the treatment of pulmonary TB .  This guidance 23 
+does not address the development of drugs for latent TB infection or for extrapulmonary TB. 24 
+ 25 Sponsors should also refer to the guidance for industry  Codevelopment of Two or More New 26 
+Investigational Drugs for Use in Combination (June 2013) .
+3  Sponsors are encouraged to discuss 27 
+with FDA the programs and pathways facilitating drug development that m ight be applicable for 28 
+their development program.4  29 
+ 30 This guidance revises and replaces the draft guidance for industry of the same name issued in 31 
+November 2013.  This revision includes more detail regarding nonclinical models, early phase 32 
+studies, and trial design considerations, including the demonstration of efficacy using superiority 33 
+or noninferiority (NI) trial designs.  Additionally, updates are made regarding inclusion of 34 
+pediatric subjects in trials, endpoint and safety considerations, and labeling.  The Appendix 35 
+containing the NI margin justification has also been updated. 36 
+ 
+1 This guidance has been prepared by the Division of Anti -Infectives in the Center for Drug Evaluation and 
+Research at the Food and Drug Administration.  
+ 
+2 For the purposes of this guidance, all references to drugs  include both human drugs and therapeutic biological 
+products unless otherwise specified.  
+ 
+3 We update guidances periodically.  To make sure you have the most recent version of a guidance, check the FDA 
+guidance web page at https://www.fda.gov/regulatory -information/search -fda-guidance -documents . 
+ 
+4 See the guidance for industry Expedited Programs for Serious Conditions  — Drugs and Biologics (May 2014). Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+2  37 
+This guidance does not contain discussion of the general issues of statistical analysis or clinical 38 
+trial design.  Those topics are addressed in the International Council  for Harmonisation (ICH)  39 
+guidances for industry E9 Statistical Principles for Clinical Trials  (September 1998) and E10 40 
+Choice of Control Group and Related Issues in Clinical Trials  (May 2001)  (ICH E10) , 41 
+respectively.  42 
+ 43 
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities. 44 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 45 
+as recommendations, unless specific regulatory or statutory requirements are cited. The use of 46 
+the word sho uld in Agency guidances means that something is suggested or recommended, but 47 
+not required .  48 
+ 49 
+ 50 
+II. BACKGROUND  51 
+ 52 
+Infections caused by Mycobacterium tuberculosis ( M. tuberculosis ) are diagnosed  in the United 53 
+States and are endemic  in many parts of the world.  Resistance to multiple drugs and coinfection 54 
+with human immunodeficiency virus ( HIV)  pose challenges in the management of TB .  Drugs 55 
+with new mechanisms of action,  impr oved safety profiles,  fewer drug- drug interactions, and 56 
+treatment- shortening  combination  regimens are needed  to manage TB.   57 
+ 58 
+ 59 
+III. DEVELOPMENT PROGRAM  60 
+ 61 
+A. General Considerations 62 
+ 63 
+1. Early Phase Clinical Development Considerations  64 
+ 65 
+Nonclinical evaluations provide  valuable information for the development of investigational 66 
+drugs  (see section III.C.1., Microbiology Considerations , section III.C.2.,  Relevant Nonclinical 67 
+Safety Considerations , and section III.C.3., PK/PD  Considerations ).  68 
+ 69 
+Activity of antimycobacterial drug s can be evaluated in trials of early bactericidal activity  (EBA)  70 
+and/or in phase 2 trials that evaluate microbiologic al outcomes at early t ime points.   For a 71 
+combination regimen , the sponsor should evaluate t he contribution of each drug to the treatment 72 
+effect .5 This can be evaluated in phase 2 clinical development and in nonclinical studies (see 73 
+section III.C.1., Microbiology Considerations ).  Treatment of pulmonary TB includes more than 74 
+one drug in a treatment regimen, and sponsors may be developing more than one investigational 75 
+drug as part of a new combination regimen .  Sponsors should consult with the Agency early in 76 
+development regarding plans to demonstrate the contribution of the investigational drug(s) as 77 
+part of a combination regimen.  78 
+ 79 
+ 
+5 The recommendations in this guidance are relevant to demonstrating the contribution of the individual new 
+investigational drugs to the effect(s) of the combination  regimen  and are consistent with the requirements of 21 CFR 
+300.50, Fixed-combination prescriptio n drugs for humans.  Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+3 a. EBA  80 
+ 81 
+If applicable to the investigational drug under study, EBA trials evaluating the quantitative 82 
+counts of viable M.  tuberculosis  from daily collections of sputum can provide information on the 83 
+bactericidal activity of antimycobacterial drugs .  These trials are intended to evaluate 84 
+antimycobacterial activity  of investigational drugs alone or in combination  over a brief time 85 
+course (e.g., 7 to 14 days).  EBA trials can provide preliminary evidence for the contribution of 86 
+each drug to the treatment effect of the combination regi men.  Appropriate subjects for 87 
+enrollment in  EBA trials include immunocompetent subjects , treatment- naïve adul t subject s at 88 
+low risk of infect ion with drug- resistant TB, and subjects with no evidence of extra -pulmonary 89 
+disease, who can begin standard- of-care treatment for pulmonary TB at the completion of the 90 
+EBA trial.   91 
+ 92 
+b. Phase 2 evaluations 93 
+ 94 Sponsors should conduct phase 2 trials to assess the antimycobacterial activity of a n 95 
+investigational drug regimen .  In addition, if feasible , a phase 2 development program should 96 
+include a dose ranging study or studies to assist in determining the most appropriate dose 97 
+regimen to be taken into phase 3.  Phase 2 exploratory endpoints can include, but are not limited 98 
+to, the following: (1) 8- week evaluation for  absence of acid -fast bacilli (AFB) in sputum; (2) 99 
+time to sputum culture negativity for M.  tuberculosis; (3) symptom improvement; and/or (4) a 100 
+biomarker intended to predict clinical benefit.  The Agency recommend s that as part of phase 2 101 
+trial designs, sponsors include long- term follow -up with collection of clinical endpoints in 102 
+addition to earlier time  points. 103 
+ 104 
+2. Efficacy Considerations 105 
+ 106 An investigational drug can be evaluated for efficacy when added to combination re gimens of 107 
+already  approved drugs.  Additionally, an entirely new combination regimen comprised of 108 
+investigational drugs can be evaluated for efficacy.  A single adequate and well -controlled trial 109 
+in subjects with pulmonary TB , support ed by other confirmatory evidence (e.g., evidence of 110 
+antimycobacterial activity from nonclinical data, EBA, and p hase 2 trials), may  provide  evidence 111 
+of effectiveness when the single trial demonstrate s a clinically meaningful and statistically robust 112 
+treatment effect.
+6  See section III., B., Specific Efficacy Trial Consideration, below for further 113 
+discussion regarding efficacy considerations.  114 
+ 115 
+3. Safety Considerations 116 
+ 117 The evaluation of the safety profile of an investigational drug can be challenging because 118 
+patients with pulmonary TB  often have comorbid conditions.  Sponsors should evaluate potential 119 
+drug- drug interactions that may occur during c oadministration with other antimycobacterial 120 
+drugs or other concom itant medications  (e.g., antiretroviral drugs).   121 
+ 
+6 See the draft guidance for industry Demonstrating  Substantial Evidence of Effectiveness for Human Drug and 
+Biological Products  (December 2019).  When final, this guidance will represent the FDA’s current thinking on this 
+topic.  For t he most recent version of a guidance, check the FDA guidance web page at 
+https://www.fda.gov/regulatory -information/search -fda-guidance -documents . Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+4  122 
+Hepatotoxicity and QT interval prolongation are common adverse reactions with 123 
+antimycobacterial drugs.  Sponsors should evaluate i nvestigat ional drugs for their potential to 124 
+cause hepatotoxicity, QT prolongation, and arrhythm ias.7, 8  125 
+ 126 
+Sponsors should discuss the  size of the preapproval safety database with the FDA during drug 127 
+development.  For assessment of risks and benefits in subjects with an unmet medical need, a 128 
+smaller safety database of approximately 300 subjects treated at (or greater/longer than) the 129 
+proposed intended dose and duration may be sufficient . If safety signals are identi fied, a larger 130 
+safety database may be needed.  131 
+ 132 
+B. Specific Efficacy Trial Considerations 133 
+ 134 
+1. Trial  Design s 135 
+ 136 
+Sponsors can use t he following trial designs to demonstrate  superiority :  137 
+ 138 
+• A regimen that includes one or more investigational drugs is compared to a standard 139 
+regimen, with efficacy demonstrated by showing superiority of the investigational drug 140 
+regimen over the standard regimen.9   141 
+ 142 
+• The investigational drug (s) plus the optimized background regimen (OBR)  is compared 143 
+to the matching placebo plus the OBR, with e fficacy demonstrated by showing 144 
+superiority of the investigational  drug  regimen  over the placebo -containing regimen.  145 
+Optimized  background antimycobacterial treatment  should be based on epidemiologic 146 
+information and in vitro  susceptibility testing , when available.   147 
+ 148 
+Sponsors can use t he following trial designs to demonstrate NI:  149 
+ 150 
+• An investigational drug regimen is compared to a standard regimen.  NI  would be 151 
+demonstrated by showing that the investigational regimen performs within a prespecified 152 
+margin of the performance of the standard regimen.  153 
+ 154 
+• The investigational drug replaces one of the drugs  in a st andard combination regimen .  155 
+The investigational drug regimen should perform within an acceptable NI  margin that is  156 
+based on the known quantitative and reliable contribution of the drug that has been 157 
+ 
+7 See the guidance f or industry Drug- Induced Liver Injury:   Premarketing Clinical Evaluation  (July 2009) . 
+ 
+8 See the ICH guidances for industry E14 Clinical Evaluation of QT/QTc Interval Prolongation and Pr oarrhythmic 
+Potential for Non -Antiarrhythmic Drugs  (October 2005) ; E14 Clinical Evaluation of QT/QTc Interval Prolongation 
+and Pr oarrhythmic Potential for Non -Antiarrhythmic Drugs  — Questions and Answers  (R3) (June 2017) ;  S7B 
+Nonclinical Evaluation of the Potential for Delayed Ventricular Repolarization (QT Interval Prolongation) by 
+Human Pharmaceuticals  (October 2005) ; and M3(R2)  Nonclinical Safety Studies for the Conduct of Human Clinical 
+Trials and Marketing Authorization for Pharmaceuticals  (January 2010) . 
+ 
+9 See the guidance for industry Codevelopmen t of Two or More New Investigational Drugs for Use in Combination.  Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+5 replaced  to the standard regimen.  This NI trial design determines the efficacy 158 
+contribution of the investigational drug to the regimen.  159 
+ 160 
+Interpretation of the results of an NI trial relies on a justified NI margin.  This margin , which is 161 
+highly dependent on the specific design of the NI  trial, including the control regimen , is based , in 162 
+part, on data f rom previously conducted trials  to evaluate for  historical e vidence of s ensitivity to 163 
+drug e ffects  (HESDE) and estimate the effect of the active control .10  The Appendix contains  an 164 
+example of a n NI margin justification for a trial of a 4-month regimen for drug- susceptible TB .   165 
+ 166 
+The FDA has not estimated  an exact numerical treatment effect for the standard regimen of 2 167 
+months of treatment with ethambutol, isoniazid, rifampin, and pyrazinamide followed by 4 168 
+months of treatment with isoniazid and rifampin (abbreviated terminology : 2EHRZ/4HR)  for 169 
+patients wi th drug- susceptible pulmonary TB .  However, considering the historical data on 170 
+management and outcomes of patients with pulmonary TB in the era before antibacterial drug 171 
+therapy and the highly successful results following treatment with 2EHRZ/4HR, there is  support 172 
+for the selection of an NI margin based on the large degree of clinical benefit .  For example, 173 
+given that  the success rates of 2EHRZ/4HR exceed 90 percent , the numerical treatment effect is 174 
+likely to far exceed 10 percent  (Nahid et al . 2016 ).  The refore, based on clinical judgement, a 1 0 175 
+percent  NI margin is clinically relevant  and has appropriate preservation of the treatment effect  176 
+for an NI trial to determine the efficacy of a n investigational drug regimen as a whole based on 177 
+comparison to this 6-month standard regimen .  178 
+ 179 
+Depending on the new investigational drug regimen, study design of the NI trial, potential impact 180 
+(e.g., ability to fulfill  an unmet medical need ), and safety profile of the regimen, it may be 181 
+appropriate to set a wider NI  margin  and still plan for a trial design that is feasible and provides a 182 
+reasonable preapproval safety database.  The Agency en courages s ponsors to  discuss their 183 
+clinical trial designs and NI margin justification s with the FDA.11 184 
+ 185 
+For both superiority trials and NI  trials that assess the activity of the investigational drug regimen 186 
+as a whole, the sponsor will also need to address the added contribution of the components of the 187 
+regimen .9  This  may be accomplished through nonclinical trials, EBA studies, phase 2 trials 188 
+and/or as part of the pivotal efficacy trials.  189 
+ 190 
+2. Trial  Populati on 191 
+ 192 
+The trial population should include adult  subjects and if appropriate , pediatric subjects with 193 
+pulmonary TB.  The presence of extrapulmonary disease may require longer durations of 194 
+treatment than pulmonary TB and assessment of endpoints that evaluate t he extrapulmonary 195 
+site(s).  Trials can include subjects with either drug- susceptible or drug -resistant pulmonary TB 196 
+depending on the anticipated effectiveness of the antimycobacterial drugs being evaluated.  197 
+ 198 
+ 
+10 See ICH E10 for a discussion of HESDE.  
+ 
+11 See also the article Four -Month Moxifloxacin- Based Regimens for Drug -Sensitive Tuberculosis  (Gillespie et al. 
+2014) . Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+6 Protocols should specify how subjects will be handled after  in vitro  susceptibility results are 199 
+available, both in the conduct of the trial  and in the analysis of the  results.  200 
+ 201 
+Enrichment strategies regarding trials for  drug -resistant TB  can include a focus on contacts of 202 
+subjects with drug- resistant TB , subjects from areas with a high prevalen ce of drug resistance, 203 
+subjects who  relaps e after previous treatment, and subjects with disease progression on a 204 
+standard regimen.   205 
+ 206 
+3. Inclusion and Exclusion Criteria  207 
+ 208 
+The FDA r ecommend s the following inclusion criteria for subjects with pulmonary TB : 209 
+ 210 
+• Presence of AFB in  a sputum specimen detected by smear microscopy or other  rapid 211 
+diagnostic test .  Microbiological diagnosis of TB  should be confirmed by culture from at 212 
+least one sputum sample obtained at the time of enrollment.  213 
+ 214 
+• Chest radiograph ic findings consistent with active pulmonary TB , for example , cavitary 215 
+lesions, apical or other infiltrates, or hilar lymphadenopathy.  216 
+ 217 
+• A minimum of two of the following signs or symptoms that have been present for at least 218 
+2 weeks:  219 
+ 220 
+ Sputum production  221 
+ 222 
+ Cough 223 
+ 224 
+ One or more episodes of hemoptysis  225 
+ 226 
+ Fever (e.g., oral temperature greater than or equal to 38.0 degrees Celsius on at least 227 
+two occasions)  228 
+ 229 
+ Pleuritic chest pain  230 
+ 231 
+ Weight loss  232 
+ 233 
+ Night sweats 234 
+ 235 
+Use of rapid diagnostic or nonculture tests may help identify a subject for enrollment in a  TB 236 
+trial.  If the tests being  used are not FDA cleared, sponsors should provide sufficient information 237 
+about the performance characteristics of the tests determined from analytical validation studies.  238 
+ 239 
+The FDA r ecommend s the following  as exclusion criteria  for subjects  with pulmonary TB : 240 
+ 241 
+• One or more weeks  of therapy for the current episode of active TB  (unless being enrolled 242 
+in a trial targeting drug- resistant TB  and there is documented lack of response to therapy 243 
+based on clinical and microbiological findings)  244 Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+7  245 
+• Signif icant concurrent illness other than HIV (e.g., lung cancer ) that may affect outcome 246 
+assessment  247 
+ 248 
+• Unwilling ness to comply with recommendations from local public health authorities for 249 
+the management of patients with pulmonary TB  250 
+ 251 
+4. Randomization, Stratification, and Blinding  252 
+ 253 
+Trials should be randomized and double -blind  unless a sponsor can provide a scientifically 254 
+adequate explanation why blinding cannot be accomplished.  If trials are single  blind or open 255 
+label, sponsors should discuss potential biases with the FDA and how these biases will be 256 
+addressed.   If the trial cannot be fully blinded, the sponsor should maintain the maximum 257 
+possible level of blinding with in the trial with blinded assessors, blinded databases until database 258 
+lock, etc.  259 
+ 260 
+Sponsors should consider s tratification of subjects  based on certain baseline characteristics (e.g., 261 
+by the presence or absence of cavitary disease, HIV infection ).  The sponsor should include in 262 
+the protocol a discussion of how the analyses will account for the stratified randomization.12 263 
+ 264 
+5. Specific  Populations  265 
+ 266 
+a. Pediatric populations  267 
+ 268 
+The FDA encourages sponsors to begin discussions about their pediatric clinical development 269 
+plans as early as is feasible.  The additional safeguards of 21 CFR part 50, subpart D, for 270 
+enrolling children in cl inical investigations, affect the timing and design of trials that support 271 
+pediatric drug development.  In accordance with these requirements, sponsors can enroll 272 
+pediatric subjects in trials if sufficient safety , antimycobacterial activity , pharmacokineti c (PK) , 273 
+and efficacy  data in adult  subject s are available and appropriate dosing regimens  for pediatric 274 
+subjects  have been characterized.13  Sponsors can include a dolescent  subject s with pulmonary 275 
+TB in phase 3 clinical trials, if appropriate.14 276 
+ 277 
+Sponsors must  submit pediatric study plans  no later than 60 calendar days after the date of the 278 
+end-of-phase 2 meeting  or an other time as agreed upon by the FDA and the sponsor  unless the 279 
+ 
+12 See the draft guidance for industry  Adjusting for Covariates in Randomized Clinical Trials for Drugs and 
+Biological Products  (May 2021) .  When final, this guidance will represent the FDA’s current thinking on this topic.   
+ 
+13 For example, see the article Towards Earlier Inclusion of Children in Tuberculosis (TB) Drug Trials: Consensus 
+Statements from an Expert Panel  (Nachman et al. 2015 ). 
+ 
+14 See the guidance for industry  Development of Anti -Infective Drug Products for the Pediatric Population 
+(December 2021) . 
+ Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+8 investigational drug has been  granted  an orphan designation.15  Pedi atric formulation 280 
+development should begin as soon as results from the adult phase 2b trials are known and the 281 
+sponsor has determined an appropriate dosing regimen.  282 
+ 283 
+Extrapolation of adult efficacy for the treatment of pulmonary TB to pediatric populations is 284 
+acceptable for most pediatric populations, with the exception of  very young children, who have 285 
+different clinical and pathophysiologic characteristics.  Sponsors should provide PK and safety 286 
+information in a sufficient number of pediatric subjects to support the appropriate dose for 287 
+treatment of children with pulmonary TB.  Cohorts for pediatric studies can be defined based on 288 
+chronological age or weight- based criteria, particularly for oral drugs.  Studies of drugs across 289 
+the pediatric spectrum of ages/weights can be conducted in parallel rather than sequentially 290 
+unless there are specific safety or PK properties that warrant a different approach.   If existi ng 291 
+animal studies have identified potential developmental concerns for target organs (toxicology or 292 
+pharmacology), juvenile animal toxicity testing may be appropriate .16, 17 293 
+ 294 Pediatric development plans for new TB investigational drugs could include children living with 295 
+HIV provided there are no safety or drug -drug interaction issues  that cannot be managed .  296 
+ 297 Sponsors should discuss their  pediatric development programs with the FDA,  especially if they 298 
+include very young children (e.g., those younger than 5 years of age) because of  differences in 299 
+clinical manifestations (e.g., increased likelihood of extrapulmonary disease) and 300 
+pathophysiologic characteristics.  301 
+ 302 
+b. Pregnant females 303 
+ 304 
+Sponsors can include pregnant females in clinical trials once all female reproduction toxicity 305 
+studies and the standard battery of genotoxicity tests have been conducted.
+18  Infants born to 306 
+female subjects  who received the investigational drug(s) should be followed by investigators for 307 
+an appropriate length  of time; sponsors should discuss the duration with the FDA before trial 308 
+conduct.19   309 
+ 
+15 See section 505B (e)(2)(A)  of the FD&C Act  (21 U.S.C. 355 c(e)(2)(A)).  For additional information, see the 
+guidance for industry Pediatric Study Plans: Content of and Process for Submitting Initial Pediatric Study Plans 
+and Amended Initial Pediatric Study Plans  (July 2020 ) and the ICH guidance for industry E11 Clinical Investigation 
+of Medicinal Products in the Pediatric Population (December 2000) . 
+ 
+16 See the guidance for industry Nonclinical Safety Evaluation of Pediatric Drug Products  (February 2006) . 
+ 
+17 We support the principles of the 3Rs (reduce, refine, and replace) for animal use in testing when feasible.  We 
+encourage sponsors to consult with the review division  when considering  using  a nonanimal testing method they 
+believe is su itable, adequate, validated, and feasible.  We will consider if such an alternative method could be 
+assessed for equivalency to an animal test method.   
+ 
+18 See the draft guidance for industry Pregnant Women: Scientific and Ethical Considerations for Inclusion in 
+Clinical Trials  (April 2008).  When final, this guidance will represent the FDA’s current thinking on this topic.  
+ 
+19 For recommendations regarding treatment of women during pregnancy or breastfeeding , see the American 
+Thoracic Society , Centers for Disease Control and Prevention , and Infectious Diseases Society of America 
+guidelines for treatment of TB (Nahid et al . 2016) , available at 
+https://www.cdc.gov/mmwr/preview/ mmwrhtml/rr5211a1.htm .  Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+9  310 
+c. Other spe cific populations  311 
+ 312 
+Sponsors should include in trials geriatric  subjects,20 subjects with renal insufficiency, diabetes 313 
+mellitus, and subjects  with hepatic impairment, if feasible .  Because of the high incidence of TB  314 
+in patients coinfected with HIV, subjects with HIV should be included in trials .   315 
+ 316 
+6. Dose Selection  317 
+ 318 
+When selecting a dosing regimen to be evaluated in phase 3 clinical trials, sponsors should 319 
+consider target PK/pharmacodynamic (PD) parameters (e.g., area under the curve/minimum 320 
+inhibitory concentration (MIC), maximal concentration /MIC, time above the MIC) based on 321 
+in vitro models  (see s ection III. C.1.a ., In vitro studies ) and animal models  of TB , results from 322 
+early clinical trials (e.g., EBA and/or trials of AFB clearance from sputum at early time points), 323 
+and results from exposure -response evaluations .  PK/PD evaluations should include evaluations 324 
+based on free drug concentrations . 325 
+ 326 
+7. Choice of Comparators  327 
+ 328 
+The choice of comparator or background regimen depends in part on the subject population that 329 
+the sponsor will enroll in the trial (e.g., the likelihood of infection with drug- susceptible or drug - 330 
+resistant M.  tuberculosis ).  In ge neral, sponsors should choose comparator regimens that contain 331 
+FDA- approved drugs and repr esent standard  of care.   Before trial initiation, s ponsors should 332 
+discuss with the FDA t he use of comparator regimens based on local practice outside of the 333 
+United St ates, or the use of drugs that are not FDA -approved.  334 
+ 335 
+8. Efficacy Endpoints  336 
+ 337 
+Sponsors can use t he following efficacy endpoints in clinical trials of investigational drugs 338 
+intended to treat pulmonary TB : 339 
+ 340 
+• A primary clinical efficacy endpoint that is comprised of survival and evaluation of 341 
+M. tuberculosis growth on serial sputum culture examinations at a fixed time  point 342 
+following randomization for all treatment arms and includes  a period of follow -up 343 
+after completion of the planned treatment period.   The FDA defines c linical success 344 
+and failure as follows:  345 
+ 346 
+Clinical success is assigned to subjects who are alive, achieved M. tuberculosis  culture 347 
+negativity on serial sputum examinations, did not experience relapse or recurrence of 348 
+pulmonary TB, and otherwise did not meet a definition of clinical failure.  In general, 349 
+ 
+20 See the ICH guidances for industry E7 Studies in Support of Special Populations:  Geriatrics  (August 1994) and 
+E7 Studies in Support of Special Populations:  Geriatrics :  Questions and Answers  (February 2012) . Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+10 protocol -defined serial sputum examinations should occur every 2 weeks or once a month 350 
+during treatment, and every 3 months following completion of treatment.21 351 
+ 352 
+Clinical failure  is defined as having one or more of the following:  353 
+ 354 
+ Protocol -defined clinical progression of pulmonary disease during treatment  355 
+ 356 
+ Switch in antimycobacterial therapy because of  tolerability issues or clinical 357 
+progression of pulmonary TB  358 
+ 359 
+ Signs or symptoms of active TB, including radiographic worsening compared to 360 
+baseline findings, resulting in reinitiation of antimycobacterial thera py during 361 
+follow -up22 362 
+ 363 
+ Death during treatment or follow -up 364 
+ 365 
+ Growth of M.  tuberculosis on sputum culture outlined as follows : 366 
+ 367 
+ Failure to achieve M. tuberculosis  culture  negativity in serial sputum specimens 368 
+during the treatment period 369 
+ 370 
+ Failure to maintain culture negative status a fter a specific time point defined in 371 
+the trial (in general, this is expected to be any time after two consecutive negative  372 
+sputum cultures, taken at least 28 days apart) on therapy or in follow -up 373 
+ 374 
+ Any growth of M.  tuberculosis  from an extrapulmonary site during the trial  375 
+ 376 
+• A surrogate  endpoint based on results of  M. tuberculosis sputum cultures during 377 
+treatment .  Demonstration of treatment effect on sputum culture conversion from 378 
+positive to negative  during treatment, either as a time -to-conversion analysis or at a fixed 379 
+time point (e.g., at 2 months from randomization), could be considered as surrogate 380 
+endpoints reasonably likely to predict clinical benefit under the accelerated approval 381 
+statutory an d regulatory provisions .23  Additional considerations related to accelerated 382 
+approval regarding verification and description of  clinical benefit , including the 383 
+durability of the treatment effect are discussed in section III.B.11., Accelerated Approval 384 
+Considerations .  Sponsors should obtain s erial cultures at specific time points during 385 
+treatment (e.g., every 2 weeks or every month).  The time to sputum culture conversion is 386 
+the time to the first sterile culture , verified by M. tuberculosis  culture negativity in at 387 
+ 
+21 The protocol -defin ed timing of serial examinations of sputum for culture may differ from clinical practice, which 
+often depends on local treatment guidelines and respiratory isolation procedures.   
+ 
+22 In some circumstances , antimycobacterial therapy may be restarted though there is diagnostic uncertainty whether 
+relapse has occurred, but therapy is subsequently stopped when an alternative diagnosis is established.  Protocols 
+should define the duration of retreatment therapy that will be used to define clinical failure to avoid labeling all trial 
+subjects  in this situation as failures.  
+ 
+23 Section 506(c) of the FD&C Act and 21 CFR 314.510 or 21 CFR 601.41 . Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+11 least two subsequent consecutive sputum specimens taken at least 14 days apart  (e.g., 388 
+three consecutive negative sputum culture s).  Sputum cultures can be evaluated on either 389 
+solid or liquid media  (see section III.B.11., Accelerated Approval Considerations) .  390 
+ 391 
+• Secondary  and exploratory endpoint s.  Sponsors should consider  the following : 392 
+ 393 
+ A well -defined and reliable evaluation of symptoms , which can be included in the 394 
+clinical  trial as a secondary or exploratory endpoint.  O f note, symptom evaluation in 395 
+certain  patient populations may be more difficult to  interpret , for example, among 396 
+patients  coinfected with HIV who experience immune reconstitution inflammatory 397 
+syndrome  or non- HIV- infected individuals with paradoxical reactions (Rangaka et al . 398 
+2012).  399 
+ 400 
+ Molecular or other biochemical evaluations to ascertain whether a positive culture for 401 
+M. tuberculosis after drug treatment represents relapse or reinfection (e.g. , an 402 
+exploratory endpoint analysis that treat s relapse of the baseline M. tuberculosis  403 
+infection as a failure  of the  original study treatment and treats reinfection with a new 404 
+M. tuberculosis  isolate as a  success of the original study treatment ). 405 
+ 406 
+9. Trial  Procedur es and Timing of Assessments  407 
+ 408 
+a. Entry visit  409 
+ 410 
+Sponsors should obtain baseline demographic information, current medications, and complete 411 
+physical e xamination s at the entry visit.  In addition, sponsors should obtain the following at 412 
+entry:  413 
+ 414 
+• Clinical signs and symptoms of pulmonary TB  (e.g., cough, sputum production, episodes 415 
+of hemoptysis, fever, pleuritic chest pain, weight loss, night sweats) . 416 
+ 417 
+• Baseline safety laboratory evaluations . 418 
+ 419 
+• HIV serology and, if HIV positive, viral load and  CD4 cell count . 420 
+ 421 
+• Imaging results (standard posterior to anterior view and lateral chest radiographs or 422 
+comput ed tomography scans ) describing the extent and severity of pulmonary disease . 423 
+ 424 
+• Sputum specimens for AFB smears and mycobacterial culture obtained by one of the 425 
+following: spontaneous expectoration, i nduction with hypertonic saline , bronchoscopy , or 426 
+gastric lavage (e.g., for pediatric subjects).  When applicable, baseline specimens for 427 
+quantitative cultures should be collected in a standardized manner (e.g., single early 428 
+morning induced sputum , pooled 24- hour sputum) . 429 
+ 430 Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+12 b. Visits during  therapy and after therapy completion 431 
+ 432 
+In general, clinical assessments should occur weekly or biweekly during the first months of 433 
+therapy, followed by monthly assessments until therapy completion.  After completion of 434 
+therapy, assessments should occur approximately every 3 months until the assessment of the 435 
+primary efficacy endpoint is complete (e.g., at 12 months  after randomization).  Ass essments of 436 
+signs and symptoms, adverse effects, and laboratory tests, as appropriate, should occur at these 437 
+visits.  In addition, targeted physical examinations should be performed.   438 
+ 439 
+During therapy, sponsors should obtain s putum specimens for AFB smears and culture at least 440 
+monthly.  Depending on the investigational drug regimen and design, a shorter interval between 441 
+specimen collections (e.g., 2 weeks) may be appropriate for certain periods of the trial.   442 
+ 443 
+If subjects are not able to expectorate sputum spontaneously at follow -up visits  after therapy 444 
+completion , sponsors should consider other methods to obtain sputum  (e.g., sputum induction ). 445 
+ 446 
+10. Statistical Considerations  447 
+ 448 
+In general, the sponsor should include in the protocol  a detailed statistic al analysis plan stating 449 
+the trial hypotheses and the efficacy analysis methods.   450 
+ 451 
+Sponsors should consider t he following definitions of analysis populations:  452 
+ 453 
+• Safety population:   all subjects who received at least one dose of the investigational 454 
+drug during the trial . 455 
+ 456 
+• Intent -to-treat (ITT)  population :  all randomized subjects . 457 
+ 458 
+• Microbiological ITT (m icro-ITT)  population:   all randomized subjects  with a positive 459 
+culture for M. tuberculosis from a pretreatment  prerandomization  sample.  For trials 460 
+intended  to focus on subjects with drug- resistant TB, sponsors can  choose for the primary 461 
+analysis  a micro -ITT population of all randomized subjects  with a  positive culture for  a 462 
+drug- resistant isolate of M. tuberculosis in the  pretreatment prerandomization  sample.  463 
+ 464 
+• Per-protocol  population:   all randomized subjects  with a positive culture from a 465 
+pretreatment sample who achieve a prespecified level of compliance with the protocol 466 
+(e.g., presence at all or a high percentage of follow -up visits ). 467 
+ 468 
+In general, the analysis population of greatest interest in the determination of efficacy is the 469 
+micro -ITT population.  In addition, sponsors should evaluate consistency of results for efficacy 470 
+in the ITT and per -protocol populations.  If there are notable differences between outcomes for 471 
+the ITT and per-protocol populations, the sponsor should investigate reasons for these 472 
+differences.    473 
+ 474 
+All subjects should be followed completely for the duration of the trial even if they discontinue 475 
+the investigational drug (s).  Sponsors should make every effort to minimize the loss to follow -up 476 Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+13 throughout the trial .  Given that missing data are nonetheless likely to occur, the protocol should 477 
+state how missing data will be handled in the primary efficacy analysis.  Additional ly, the 478 
+statistical analysis plan should define additional methods for handling missing data.  The study 479 
+report should include a n assessment of t he dependence of the trial results on the specific method 480 
+for handling missing data. 481 
+ 482 
+To improve the precision of treatment effect estimation and inference, sponsors should consider 483 
+adjusting for prespecified baseline factors that are anticipated to be pro gnostic of the outcome.  If 484 
+randomization is stratified by baseline covariates, the analysis should account for the stratified 485 
+randomization. 486 
+ 487 
+11. Accelerated Approval Considerations  488 
+ 489 
+In some circumstances, approval under 21 CFR part 314, subpart H , or 21 CFR part 601, subpart 490 
+E, may be applicable to drugs developed for the treatment of TB that provide clinically 491 
+meaningful benefit over existing treatments.   An endpoint based on conversion of sequential 492 
+M. tuberculosis sputum cultures to negative  (e.g., percent conversion at a prespecified time 493 
+point) can be used as a surrogate endpoint  that is reasonably likely to predict clinical benefit 494 
+(Wallis et al. 2010; Wallis et al. 2013; Phillips et al. 2013; Wallis, Peppard, and Hermann  2015; 495 
+Wallis and Pepp ard, 2015; Phillips et al. 2016; Meyvisch  et al. 2018) .  A sponsor may consider 496 
+other surrogate endpoint s (e.g., biomarker s) that are also  reasonably likely to predict clinical 497 
+benefit.  When a drug is approved under accelerated approval, FDA will require that the sponsor  498 
+“study the drug further, to verify and describe its clinical benefit”24 including the durability of 499 
+the treatment effect .  Sponsors considering sputum culture conversion or other surrogate 500 
+endpoints that are reasonably likely to predict clinical benefit should consult with  the Agency as 501 
+the clinical trial is being planned.  502 
+ 503 
+C. Other Considerations  504 
+ 505 
+1. Microbiological Considerations  506 
+ 507 
+Sponsors of i nvestigational drugs being evaluated for the treatment of TB  should have supportive 508 
+data from in vitro  and in vivo ( animal model ) microbiological studies.  These studies may  509 
+provide data to inform selection of the regimen of antimycobacterial drugs to be evaluated in 510 
+clinical trials  and to assess the contribution of each drug to the investigational drug regimen . 511 
+ 512 
+a. In vitro  studies  513 
+ 514 
+In vitro  studies should encompass the following:  515 
+ 516 
+• Investigations of drug activity ( inhibiting growth or killing ) against metabolically active, 517 
+dormant, and intracellular stages of M. tuberculosis .   518 
+ 519 
+ 
+24 21 CFR 314.510 for drugs and 21 CFR 601.41 for biological products.  Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+14 • Susceptibility testing against metabolically active bacilli from drug -susceptible laboratory 520 
+strains , laboratory strains with known patterns of drug resistance, and clin ical isolates 521 
+representing different geographical regions.  522 
+ 523 
+• Standardized methods for susceptibility testing such as those recommended by the 524 
+Clinical Laboratory Standards Institute (CLSI).25   525 
+ 526 • If nonstandard methods are being employed in the trial, prior submission for FDA review 527 
+of a complete description of the methods and the performance characteristics of the assay 528 
+in the actual laboratory where testing will be done.     529 
+ 530 • Establishment of q uality control parameters for susceptibility testing  before  531 
+determination of in vitro activity .
+26   532 
+ 533 
+If two or more new investigational drugs are under evaluation simultaneously, the sponsor 534 
+should conduct factorial design  studie s evaluating the new investig ational drugs and provide the 535 
+results to the FDA.9  The FDA encourages t esting against multiple strains of M. tuberculosis .  536 
+See section  III.C.3.d., In vitro hollow fiber system models , for methods of assessment of the 537 
+contribution of individual drugs in a combination regimen. 538 
+ 539 
+b. In vivo ( animal models ) 540 
+ 541 
+Appropriate animal models can serve as an important bridge between the identification of 542 
+in vitro  antimycobacterial effects of an investigational drug and the initiation of clinical trials.  543 
+PK assessments and changes in drug susceptibility in animal model studies may inform clinical 544 
+trial designs.  Sponsors should consider evaluations of the investigational drug, and/ or 545 
+combinations of investigational drugs, using different animal mode ls and more than one 546 
+strain/isolate of M.  tuberculosis  to study mycobacterial burden and sterilizing activity.  In vivo 547 
+studies conducted using a factorial design using clinically relevant exposures can provide 548 
+information on the contribution of the individual drugs to the  combination regimen.  549 
+ 550 
+c. Drug resistance and cross- resistance  551 
+ 552 
+Sponsors should examine the pot ential of M. tuberculosis  isolates to develop resistance to the 553 
+investigational drug in appropriate in vitro  and/or animal  models and should evaluate the 554 
+potential for cross -resistance to drugs in the same class or in other classes  used for the treatment 555 
+of TB .  If resistance is demonstrated, it is important to identify the mechanism(s)  of resistance.  556 
+ 
+25 For examples, s ee the guidance for industry and FDA  Class II Special Controls Guidance Document:  
+Antimicrobial Susceptibility Test (AST) Systems  (August 2009) and CLSI ’s Susceptibility Testing of  Mycobacteria, 
+Nocardiae, and Other Aerobic Actinomycetes; Approved Standard — Third Edition , (available at 
+https://clsi.org/standards/products/microbiology/documents/m24/ ).  For the most recent version of a class II special 
+controls guidance document, check the FDA class II special controls guidance document web page at 
+https://www.fda.gov/medical- d evices/guidance- documents -medical -devices -and-radiation -emitting -products/class -
+ii-special -controls -documents .  
+ 
+26 For more details, see the guidance  for industry Microbiology Data for Systemic Antibacterial Drugs  — 
+Development, Analysis, and Presentation  (February 2018) .  Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+15 Sponsors should attempt  to evaluate the clinical significance of any changes in phenotype (e.g., 557 
+in vitro  susceptibility to the investigational drug) or genotype observed in nonclinical studies by 558 
+correlating such changes with efficacy outcomes.  559 
+ 560 
+d. Types of culture media  to identify M. tuberculosis  561 
+ 562 
+Solid media (e.g., Löwenstein -Jensen  medium, Middlebrook 7H10 or 7H11 agar media) and 563 
+liquid media (e.g., myco bacteria growth indicator tube) are culture assay methods used to 564 
+identify and characterize M. tuberculosis .  Sponsors can include other  newer molecular 565 
+methodologies  to detect M. tuberculosis  and its susceptibility profile in trials for microbiological 566 
+evaluations .  Sponsors should specify the methods used to culture and identify M. tuberculosis  as 567 
+well as the in vitro  susceptibility testing methods  that will be employed  in the trial.   568 
+ 569 
+For baseline evaluations, the Agency recommend s using both solid and liquid media.  The 570 
+advantages to this approach are (1) more rapid observation of mycobacterial growth in liquid 571 
+media (e.g., less than 2 weeks)  and (2) that growth of pure culture on solid media is already 572 
+underway for (a) the biochem ical confirmation of M. tuberculosis  and ( b) the evaluation of in 573 
+vitro susceptibility.   574 
+ 575 
+For the evaluation of subjects on treatment and aft er treatment completion , sponsors can use 576 
+solid or liquid culture media .  Within a clinical trial, the culture meth odologies among trial sites 577 
+should be consistent to evaluate all subjects in the trial.   Other types of culture evaluations can be 578 
+informative as secondary or exploratory endpoints (e.g., quantitative culture techniques).   579 
+ 580 
+e. Differentiate relapse from reinfection or new infection  581 
+ 582 
+As a secondary analysis, sponsors should  aim to utilize mole cular methods to evaluate whether 583 
+clinical failure is caused by relapse of the original infection or by development of a new 584 
+infection , especially in subjects living in endemic areas.  If any of these methods are used in a 585 
+clinical trial, the sponsor shoul d include details of the methods used as well as performance 586 
+characteristics of all assays in the clinical protocol.  587 
+ 588 
+2. Relevant Nonclinical Safety Considerations  589 
+ 590 
+Combination regimens  remain the standard of care  for the treatment of TB.  Individual drugs 591 
+may be developed for treatment of active disease although they would be used as part of a 592 
+combination regimen .  Nonclinical studies to characterize the safety profile of individual drugs 593 
+or a combination regimen and to support clinical trials and approval of a marketing application 594 
+will vary, depending on the information available on each drug and the intended patient 595 
+population.27  The Agency encourage s sponsors to discuss with the FDA the available toxicology 596 
+ 
+27 For guidance on when to conduct nonclinical combination studies to support clinical trials of combination  
+regimen s, see the following: (1) guidance for industry Nonclinical Safety Evaluation of Drug or Biologic 
+Combinations  (March 2006) ; (2) ICH guidance  for industry M3(R2) Nonclinical Safety Studies for the Conduct of 
+Human Clinical Trials and Marketing Authorization for Pharmaceuticals ; (3) ICH guidance for industry S6(R1) 
+Preclinical Safety Evaluation of Biotechnology -Derived Pharmaceuticals  (May 2012) ; and (4) guidance for industry 
+Codevelopment of Two or More New Investigational Drugs for Use in Combination.  Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+16 data for each investigational drug an d a proposal for the clinical development of the combination 597 
+regimen . 598 
+ 599 
+Sponsors should conduct nonclinical toxicology studies of a combination regimen consisting of  600 
+two or more investigational (unapproved) drugs before initial administration of that combination 601 
+regimen to humans based on the following:  602 
+ 603 
+• The availability  of clinical experience with the individual drugs  604 
+ 605 
+• The availability  of relevant nonclinical toxicology data for each of the individual drugs 606 
+for the proposed duration of the combination regi men 607 
+ 608 
+• The existence of a significant toxicological concern and the safety margin between the no 609 
+observed adverse effects level (NOAEL) for each of the individual drugs in the animal 610 
+toxicology studies and the proposed human exposure to each of the investigational drugs 611 
+in the combination regimen  612 
+ 613 
+• The potential for drug -drug interaction s based on the absorption, distribution, 614 
+metabolism, and excretion of each of the drugs  615 
+ 616 
+• The potential for adverse effects to involve the same organ system ( overlapping 617 
+toxicities ) or synergistic toxicities based on a review of accumulated data from each of 618 
+the investigational drugs  619 
+ 620 
+Sponsors  should discuss with  the FDA the  type, duration, and timing of  nonclinical toxicology 621 
+studies needed to support clinical developme nt of the combination  regimen .  622 
+ 623 
+3. PK/PD Considerations  624 
+ 625 
+a. Phase 1/ phase 2 PK trials  626 
+ 627 
+The PK  of the investigational drug should be fully characterized in single -dose PK, multiple - 628 
+dose PK, and phase 2 PK/PD evaluations .  The FDA recommends characterization of PK in 629 
+specific populations, including subjects who have renal or hepatic impairment, as well as an 630 
+evaluation of the drug effect on the QT interval .28  631 
+ 632 
+b. Drug interactions  633 
+ 634 
+Sponsors should conduct i n vitro studies to determine the pote ntial of the investigational drug to 635 
+act as a substrate, inhibitor , or inducer of major human metabolizing enzymes  and relevant 636 
+transporters .29  Based on these results, drug interaction evaluations  between one or more of the 637 
+ 
+28 See the ICH guidance for ind ustry E14 Clinical Evaluation of QT/QTc Interval Prolongation and Proarrhythmic 
+Potential for Non -Antiarrhythmic Drugs  — Questions and Answers  (R1) (October 2012) . 
+ 
+29 See the guidance for industry In Vitro Drug Interaction Studies — Cytochrome P450 Enzyme - and Transporter -
+Mediated Drug Interactions  (January 2020).  Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+17 antimycobacterial drugs used in the planned combination regimen, or with  drugs unrelated to the 638 
+treatment of TB but likely to be used concomitantly for other indications  (e.g., antiretroviral 639 
+therapy for treatment of HIV; antiviral therapy for treatment of hepatitis B or C ), may be needed 640 
+before initiating clinical efficacy trials.30  The Agency strongly recommends that sponsors 641 
+consult the FDA during drug development regarding appropriate drug interaction evaluations .  642 
+ 643 
+c. Exposure  response  644 
+ 645 
+Sponsors should explore e xposure -response relationships during early phases of drug 646 
+development to aid in the selection of optimal dosing strategies for evaluation in later trials.31  647 
+The FDA encourages sponsors to explore exposure -response  relationships for both sputum and 648 
+serum drug concentrations and markers of activity (e.g., the time -to-sputum -conversion or 649 
+sputum conversion rate at 2 months in subjects  with pulmonary TB ). 650 
+ 651 
+d. In vitro hollow fiber system models  652 
+ 653 
+The re sults from hollow fiber system models, combined with other sources of nonclinical data, 654 
+can help inform the selection of antimycobacterial drug regimens to begin clinical evaluation 655 
+(Chilukuri  et al. 2015).  The hollow fiber system models can be used to si mulate PK  656 
+characteristics of drugs intended to treat TB and allows for the exploration of concentration- 657 
+effect relationships potentially relevant to the treatment of TB  in the clinical setting.  T hese 658 
+models are expected to provide key information on regim en selection for further evaluation.  659 
+These models may also play an important role in evaluating the contribution of each drug (at 660 
+clinically relevant exposures) to the treatment effect . 661 
+ 662 
+4. Foreign Clinical Data32 663 
+ 664 
+FDA regulations permit the acceptance of foreign clinical trials in support of a new drug 665 
+application (NDA)  or biologics license application (BLA)  approval  (21 CFR 312.120).   666 
+ 667 
+5. Data standards for TB  668 
+ 669 
+Study data standards describe a standard ized way to exchange clinical and nonclinical research 670 
+data between computer systems.  Data standards have been developed for TB to provide a 671 
+ 
+30 See the guidance for industry Clinical Drug Interaction Studies — Cytochrome P450 Enzyme - and Transporter -
+Mediated Drug Interactions  (January 2020).  
+ 
+31 See the guidance for industry Exposure -Response Relationships — Study Design, Data Analysis, and Regulatory 
+Applications  (April 2003) .  
+ 
+32 See the guidance for industry and FDA staff FDA Acceptance of Foreign Clinical Studies Not Conducted Under 
+an IND Fr equently Asked Questions  (March 2012).  
+ Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+18 consistent general framework for organizing study data, including templates for datasets, 672 
+standard names for variables, and standard ways of doing calculations with common variables.33   673 
+ 674 
+6. Labeling Considerations 675 
+ 676 
+Generally, the labeled indication should reflect the patient population enrolled in the clinical 677 
+trials.  For example , sponsors should consider the following : 678 
+ 679 
+Drug X is indicated in combination with Drugs Y and Z for the treatment of pulmonary 680 
+tuberculosis. 681 
+ 682 
+or  683 
+ 684 
+Drug X is indicated in combination with other antimycobacterial drugs  for the treatment 685 
+of pulmonary tuberculosis.  686 
+ 687 For drugs approved under accelerated approval, the sponsor must include additional information 688 
+in the INDICATIONS AND USAGE  section (see 21 CFR 201.57(c)(2)(i)(B)).
+34  For drugs 689 
+approved  under the l imited population pathway for a ntibacterial and antifungal drugs, additional 690 
+information is available for specific labeling requirements and recommendations.35, 36691 
+ 
+33 See, for example, the TB Therapeutic Area User Guide version 2 available at 
+https://www.cdisc.org/standards/therapeutic -areas/tuberculosis/tuberculosis -therapeutic -area-user-guide -v2-0 and 
+FDA’s Study Data Standards Resources  web page available at 
+https://www.fda.gov/ForIndustry/DataStandards/StudyDataStandards/default.htm . 
+ 
+34 See the guidance for industry Expedited Programs for Serious Conditions  — Drugs and Biologics . 
+ 
+35 See section 506(h)(3)(A) of the FD&C Act (as amended by the 21st Century Cures Act).  
+ 
+36 See the guidance for industry Limited Population Pathway for Antibacterial and Antifungal Drugs  (August 2020) . Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+19 REFERENCES  692 
+ 693 
+Bark , CM, R Dietze , A Okwera , et al., 2011, Clinical Symptoms and Mi crobiological Outcomes 694 
+in Tuberculosis Treatment Trials, Tuberculosis , 91(6) :601–604. 695 
+ 696 
+Chilukuri, D, O McMaster, K Bergman, et al., 2015, The Hollow Fiber System Model in the 697 
+Nonclinical Evaluation of Antituberculosis Drug Regimens, Clin Infect Dis, 61 (Su ppl 698 
+1):S32-S33. 699 
+ 700 
+DerSimonian , R and N Laird , 1986, Meta -Analysis in Clinical Trials, Controlled Clin Trials , 701 
+7(3):177–188. 702 
+ 703 
+East African /British Medical Research Council , 1981, Controlled C linical Trial of F ive S hort- 704 
+Course (4- Month) C hemotherapy Regimens in Pulmonary Tuberculosis , Am Rev Respir Dis , 705 
+123(2) :165 –170. 706 
+ 707 
+East and Central Africa/British Medical Research Council Fifth Collaborative Study , 1983, 708 
+Controlled Clinical T rial of 4 S hort-Course R egimens of C hemotherapy ( Three 6 -Month and 709 
+One 8- Month) for P ulmonary T uberculosis , Tubercle , 64(3):153 –166. 710 
+ 711 
+Gillespie , SH, AM Crook, TD McHugh, et al., 2014, Four -Month Moxifloxacin- Based Regimens 712 
+for Drug -Sensitive Tuberculosis, New Engl J Med, 371(17): 1577 –1587.  713 
+ 714 
+Johnson, JL, DJ Hadad , R Dietze,  et al., 2009, Shortening T reatment in Adults W ith Noncavitary 715 
+Tuberculosis and 2- Month Culture Conversion, Am J Respir Crit Care Med, 180(6) :558 –563. 716 
+ 717 
+Makuch , RW and RM Simon , 1980, Sample Size Considerations for Non -Randomized 718 
+Comparative Studies, J Chron Dis, 33(3) :175–181. 719 
+ 720 
+Meyvisch , P, C Kambili, K Andries, et al. , 2018, Evaluation of six months sputum culture 721 
+conversion as a surrogate endpoint in a multidrug resistant -tuberculosis trial, PLoS One , 722 
+13(7):e0200539. 723 
+ 724 
+Nachman , S, A Ahmed, F Amanullah, et al ., 2015, Towards Earlier Inclusion of Children in 725 
+Tuberculosis (TB) Drug Trials: Consensus Statements from an Expert Panel, Lancet Infect Dis, 726 
+15(6):711–720. 727 
+ 728 
+Nahid, P, SE Dorman, N Alipanah, et al., 2016, Official American Thoracic Society/Centers for 729 
+Disease Control and Prevention/Infectious Diseases Society of America Clinical Practice 730 
+Guidelines: Treatment of Drug -Susceptible Tuberculosis, Clin Infect Dis, 63(7):853– 867. 731 
+ 732 
+Nunn, AJ, PP J Phillips, and SH Gillespie,  2008, Design Issues in Pivotal Drug Trials for Drug 733 
+Sensitive Tuberculosis (TB), Tuberculosis; 88(Suppl 1):S85 –S92. 734 
+ 735 
+Perez- Velez, CM and BJ Marais, 2012, Tuberculosis in Children, New Engl J Med, 367(4) :348– 736 
+361. 737 Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+20 Phillips , PPJ , CM Mendel, DA Burger, AM Crook, AJ Nunn, R Dawson, et al. , 2016, Limited 738 
+Role of C ulture C onversion for D ecision -making in I ndividual P atient C are and for A dvancing 739 
+Novel R egimens to C onfirmatory C linical T rials, BMC Med , 14:19. 740 
+ 741 
+Phillips , PPJ, K Fielding, and AJ Nunn, 2013, An E valuation of C ulture R esults D uring 742 
+Treatment for Tuberculosis as S urrogate E ndpoints for T reatment F ailure and R elapse , PLoS 743 
+ONE , 8(5) :e63840. 744 
+ 745 
+Rangaka, MX, RJ Wilkinson, JR Glynn , et al., 2012, Effect of Antiretroviral Therapy on the  746 
+Diagnostic Accuracy of Symptom Screening for Intensified Tuberculosis Case Finding in a 747 
+South African HIV Clinic, Clin Infect Dis , 55(12) :1698–1706. 748 
+ 749 
+Singapore Tuberculosis Service/British Medical Research Council , 1986, Long- Term Follow -up 750 
+of a C linica l Trial of S ix-Month and Four-Month R egimens of C hemotherapy in the T reatment 751 
+of Pulmonary T uberculosis , Am Rev Respir Dis , 133(5):779– 783. 752 
+ 753 
+Wallis, RS, and T Peppard, 2015, Early B iomarkers and R egulatory I nnovation in Multidrug - 754 
+Resistant T uberculosis , Clin Infect Dis , 61 ( Suppl 3) :S160– S163. 755 
+ 756 
+Wallis, RS, C Wang, TM Doherty, P Onyebujoh, M Vahedi, H Laang, et al. , 2010, Biomarkers 757 
+for T uberculosis D isease A ctivity, C ure, and R elapse, Lancet Infect Dis ,10(2): 68–69.  758 
+ 759 
+Wallis, RS, C Wang, D Meyer, and N Thomas , 2013, Month 2 C ulture Status and T reatment 760 
+Duration as Predictors of T uberculosis R elapse R isk in a M eta-Regression M odel PLoS ONE, 761 
+8(8): e71116. 762 
+ 763 
+Wallis, RS, T Peppard, and D Hermann , 2015, Month 2 C ulture S tatus and T reatment Duration 764 
+as Predictors of R ecurrence in P ulmonary T uberculosis: M odel V alidation and U pdate , PloS 765 
+ONE , 10(4) :e0125403. 766 
+ 767 
+Wejse, C, P Gustafson , J Nielson , et al., 2008, TBscore:  Signs and Symptoms from Tuberculosis 768 
+Patients in a Low -Resource Setting Have Predictive Value and May Be Used to Assess Clinical 769 
+Course, Scand J of Infect Dis , 40(2) :111–120. 770 Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+21 APPENDIX 771 
+Example of a Justification for a Noni nferiority Margin  772 
+in a Treatment -Shortening Clinical Trial of Pulmonary Tuberculosis  773 
+ 774 
+This appendix provides an example of a noninferiority (NI) margin justification.  As stated in 775 
+this guidance, NI  margin  justification s are dependent on the specific design of the NI  trial.  This 776 
+justification is for a specific NI  trial that w ould compare a n investigational drug  regimen 777 
+consisting of a new investigational drug plus the first 4 months of the standard regimen to the 778 
+standard  6-month regimen in subjects with drug -susceptible tuberculosis ( TB).  The effect of the 779 
+investigational drug essentially replaces the effect of Months 5 and 6 of the standard regimen.  780 
+Using historical data, t his justification  determines the effect of these 2 months of therapy 781 
+(historical evidence of sensitivity to drug e ffects  (HESDE )) to de termine if the new 782 
+investigational drug is effective based on the results of the NI  trial.  Additional information is 783 
+available regarding a complete discussion of NI  trials and justification s of margins .1 784 
+ 785 We identified two  trials that allowed for an esti mate of the effect of M onths 5 and 6 in the 786 
+standard regimen for drug -susceptible TB , based on a comparison of the standard-of- care 787 
+regimen (2 months of treatment with ethambutol (or streptomycin), isoniazid, rifampin, and 788 
+pyrazinamide followed by 4 months of treatment with isoniazid and rifampin, which is often 789 
+described in abbreviated terminology as 2EHRZ/4HR or 2SHRZ/4HR ) to a 4- month regimen  of 790 
+2EHRZ/2HR  or 2SHRZ/2HR.
+2  The endpoint of unfavorable outcome was defined as one of the 791 
+following: (1)  subjects who never become sputum culture negative for M. tuberculosis  while on 792 
+therapy; (2) subjects who had microbiological confirmation of relapse of pulmonary TB within a 793 
+12-month period of observation following therapy completion; or (3) subjects who died at any 794 
+time within the clinical trial drug administration period and 12-month period of observation 795 
+following therapy completion. 796 
+ 797 Table A , below, contains the results from the two trials  among subjects randomized to receive 798 
+the 6- month regimen or the 4- month regimen .  A comparison of the two regimens gives an 799 
+estimate of the effect of the final 2 months of the 6 -month regimen of 8.4 percent with a lower 800 
+bound of the 95 percent confidence interval of 4.8 percent; 4.8 percent can be used as a 801 
+conservative estimate of the treatment effect of Months 5 and 6 of treatment.  802 
+ 803 
+ 
+1 See the guidance for industry Non-Inferiority Clinical Trials to Establish Effectiveness  (November 2016).  We 
+update guidances periodically.  To make sure you have the most recent version of a guidance, check the FDA 
+guidance web page at https://www.fda.gov/regulatory -information/search -fda-guidance -documents . 
+ 
+2 See Singapore Tuberculosis Service/British Medical Research Council  1986 ; East and Central Africa/British 
+Medical Research Council Fifth Collaborative Study 1983 ; and East African/British Medical Research Council 
+1981 . Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+22 Table A :  The Results of T wo Treatment -Shortening S tudies* 804 
+ 805 
+Study** 6-Month 
+Regimen  Unfavorable 
+Outcome  4-Month 
+Regimen  Unfavorable 
+Outcome  Treatment Effect (4 -
+Month Regimen 
+Minus 6 -Month 
+Regimen) and 95% CI  
+1 2SHRZ/4HR(Z)  1.2% (2/158)  2SHRZ/2HR(Z)  9.6% (15/156)  8.4% (3.8%, 14.2%)  
+2 2SHRZ/4HR  4.7% (8/172)  2SHRZ/2HR(Z)  13.2% (28/212)  8.6% (2.4%, 14.6%)  
+ Summary Estimate and  95% CI *** 8.4% (4.8%, 12.1%)  
+* CI = confidence interval; 2SHRZ/4H R(Z) = 2 months of treatment with streptomycin, isoniazid, rifampin, and 806 
+pyrazinamide followed by 4 months of treatment with isoniazid and rifampin (and pyrazinamide ); 2SHRZ/2HR(Z) = 807 
+2 months of treatment with streptomycin, isoniazid, rifampin, and pyrazinamide followed by 2 months of treatment 808 
+with isoniazid and rifampin  (and pyrazinamide) . 809 
+** The number of deaths is unknown for Study 1 and therefore is not included in the outcome.   The 6 -month and 4 - 810 
+month regimens in Study 2 are from separate trials; however, they were similarly designed and conducted , and 811 
+occurred close in time.   Study 1: Singapore Tuberculosis Service/British Medical Research Council, 1986, Long - 812 
+Term Follow -up of a Clinical Trial of Six -Month and Four -Month Regimens of Chemotherapy in the Treatment of 813 
+Pulmonary Tuberculosis, Am Rev Respir Dis, 133(5):779 –783.  Study 2: East and Central Africa/British Medical 814 
+Research Council Fifth Collaborative Study , 1983, Controlled Clinical Trial of 4 S hort- Course Regimens of  815 
+Chemotherapy ( Three 6 -Month and One 8-Month) for Pulmonary Tuberculosis, Tubercle, 64(3):153– 166; and East 816 
+African/British Medical Research Council, 1981, Controlled Clinical Trial of Five Short -Course (4 -Month) 817 
+Chemotherapy Regimens in Pulmonary Tuberculosis, Am Rev Respir Dis, 123(2):165 –170. 818 
+*** Random effect model per DerSimonian, R and N Laird, 1986, Meta -Analysis in Clinical Trials, Controlled Clin 819 
+Trials, 7(3):177 –188. 820 
+ 821 
+In an NI  trial in subjects with drug- susceptible pulmonary TB  where a tr eatment -shortening 822 
+regimen is compared to a standard 6-month regimen, the selection of a n NI margin of 4.8 percent  823 
+can be supported by the historical data .  The NI  margin  justification presented here is a 824 
+modification of the justification presented in Nunn et al . 2008 .3   825 
+ 826 
+Although an NI  margin of 4.8 percent may seem over ly conservative, the fact that a very high 827 
+proportion of subjects achieve a successful primary efficacy outcome with standard of care 828 
+provides for a reasonable estimate o f the sample size for  an NI  trial.  Additionally, given the high 829 
+proportion of subjects achieving a successful outcome, there is interest in maintaining this high 830 
+proportion in new investigational drug regimens.  For example, we identified a trial (Johnson et 831 
+al. 2009)4 that described halting of the trial by a data monitoring committee based on an 832 
+approximately 5 percentage point estimate difference between the standard regimen and a 833 
+treatment- shortening regimen, indicating that there is a clinical expecta tion that there should be a 834 
+high proportion of subjects achieving successful outcome s in both treatment groups, making the 835 
+selection of a n NI margin of 4.8 percent a feasible consideration.   836 
+ 837 
+ 
+3 Nunn, AJ, PPJ Phillips, and SH Gillespie, 2008, Design Issues in Pivotal Drug Trials for Drug Sensitive 
+Tuberculosis (TB), Tuberculosis; 88(Suppl 1):S85– S92. 
+ 
+4 Johnson, JL, DJ Hadad, R Dietze, et al., 2009, Shortening Treatment in Adults With Noncavitary Tuberc ulosis and 
+2-Month Culture Conversion, Am J Respir Crit Care Med, 180(6):558 –563. 
+ Contains Nonbinding Recommendations  
+Draft —  Not for Implementation  
+23 The following example provide s a framework for discus sion with the FDA about sample size 838 
+estimation  for an NI  trial evaluating a treatment -shortening regimen (Makuch and Simon 1980) .5  839 
+The total sample size of enrolled subjects is approximately 480 subject s per arm  based on the 840 
+follow ing assumptions: (1) the identification of Mycobacterium tuberculosis  in 90 percent  of 841 
+enrolled subjects (primary analysis population is approximately 430 subjects per arm); (2) a two - 842 
+sided type I error of 0.05 and power of 90 percent ; (3) for both arms, a  rate of 5  percent  of 843 
+subjects who have the endpoint of failure to convert to negative sputum cultures , or who 844 
+experience relapse of TB , or death at a 12 -month period of observation; and (4) an NI  margin of 845 
+4.8 percent . 846 
+ 847 
+Sponsors should discuss with the FDA appropriate NI  margins for specific NI  trials being 848 
+proposed.  849 
+ 
+5 Makuch, RW and RM Simon, 1980, Sample Size Considerations for Non -Randomized Comparative Studies, J 
+Chron Dis, 33(3):175 –181. 
