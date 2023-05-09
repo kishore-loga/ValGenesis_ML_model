@@ -25,10 +25,11 @@ def extract_text_from_pdf(pdf_paths):
     return text
 
 
-
+#Giving the file paths to the defined function to get the text
 pdf_paths = ["Cancer_CT_Eligibility_Criteria_Prior_or_Concurrent_Malignan.pdf", "Pulmonary_Tuberculosis.pdf"]
 text = extract_text_from_pdf(pdf_paths)
 
+#Saving the extracted file into a new text file
 with open("pdf_output.txt", "w", encoding='utf-8') as file:
     file.write(text)
 
