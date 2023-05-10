@@ -3,6 +3,7 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 
+from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
@@ -22,4 +23,13 @@ tokens = word_tokenize(text)
 stop_words = set(stopwords.words('english'))
 tokens = [token for token in tokens if not token in stop_words]
 
-print(tokens)
+#Stemming the text
+stemmer = PorterStemmer()
+stemmed_tokens = [stemmer.stem(token) for token in tokens]
+
+stemmed_text = " ".join(stemmed_tokens)
+
+with open("Preprocessed_text.txt", "w") as file:
+    file.write(stemmed_text)
+
+
